@@ -1,5 +1,7 @@
 Business Problem: A client wants to open an Indian restaurant in Toronto,Canada your job is to find a suitable location for it .
+
 Target Audience : Any businessman who want to start an indian retaurant in toronto
+
 Data:
 1) List of neighborhoods in canada from wikipedia
 2) Longitude and latitude of these neighborhoods
